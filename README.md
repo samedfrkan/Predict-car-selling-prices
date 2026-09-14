@@ -57,4 +57,3 @@ All plots are saved in the project root:
 ## 📎 Authors
 
 - Samed Furkan DEMİR
-- İbrahim Batuhan ACAR
